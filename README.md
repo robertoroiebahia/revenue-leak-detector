@@ -1,7 +1,7 @@
 # Revenue Leak Detector 💰
 
 Find out how much revenue you're leaving on the table compared to your industry benchmark.
-**[🚀 Try it now]([your-url-will-go-here](https://revenue-leak-detector.streamlit.app/))** 
+**[🚀 Try it now](https://revenue-leak-detector.streamlit.app/)** 
 
 ## What It Does
 
